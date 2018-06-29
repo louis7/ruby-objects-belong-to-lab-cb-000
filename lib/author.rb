@@ -1,9 +1,9 @@
 
 class author
-  attr_accessor :name
+  attr_accessor :name 
 end
 
 
-class Post 
+class Post
   attr_accessor :title
 end
